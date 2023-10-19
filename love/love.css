@@ -295,7 +295,7 @@ body {
 .boxCar{
     position: absolute;
     bottom: 15%;
-    left: -5%;
+    left: -15%;
     transform: translateX(-400px);
     z-index: 2;
     animation: car 4s 1s forwards, car1 2s 5s forwards;
